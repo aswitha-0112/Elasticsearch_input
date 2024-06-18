@@ -1,0 +1,142 @@
+{
+    "HPSpectreX360": "HP Spectre x360",
+    "@HPSpectreX360": {
+        "description": "The HP Spectre x360 is a premium 2-in-1 laptop with a sleek design, powerful performance, and long battery life.",
+        "x-StrId": "401001",
+        "x-StrType": "Laptop",
+        "x-SRKey": "Laptop.Get.HPSpectreX360"
+    },
+    "HPEnvy13": "HP Envy 13",
+    "@HPEnvy13": {
+        "description": "The HP Envy 13 offers a stylish design, strong performance, and a vibrant display, making it ideal for everyday use.",
+        "x-StrId": "401002",
+        "x-StrType": "Laptop",
+        "x-SRKey": "Laptop.Get.HPEnvy13"
+    },
+    "HPEliteDragonfly": "HP Elite Dragonfly",
+    "@HPEliteDragonfly": {
+        "description": "The HP Elite Dragonfly is a lightweight business laptop with excellent build quality and enterprise-level security features.",
+        "x-StrId": "401003",
+        "x-StrType": "Laptop",
+        "x-SRKey": "Laptop.Get.HPEliteDragonfly"
+    },
+    "HPOmen15": "HP Omen 15",
+    "@HPOmen15": {
+        "description": "The HP Omen 15 is a gaming laptop that offers high performance, a solid build, and an immersive display.",
+        "x-StrId": "401004",
+        "x-StrType": "Laptop",
+        "x-SRKey": "Laptop.Get.HPOmen15"
+    },
+    "HPProBook450": "HP ProBook 450",
+    "@HPProBook450": {
+        "description": "The HP ProBook 450 is a reliable business laptop with strong performance, robust security, and a durable design.",
+        "x-StrId": "401005",
+        "x-StrType": "Laptop",
+        "x-SRKey": "Laptop.Get.HPProBook450"
+    },
+    "HPZBookStudio": "HP ZBook Studio",
+    "@HPZBookStudio": {
+        "description": "The HP ZBook Studio is a mobile workstation that delivers powerful performance and high-end graphics for professionals.",
+        "x-StrId": "401006",
+        "x-StrType": "Laptop",
+        "x-SRKey": "Laptop.Get.HPZBookStudio"
+    },
+    "HPChromebook14": "HP Chromebook 14",
+    "@HPChromebook14": {
+        "description": "The HP Chromebook 14 is an affordable laptop with a focus on web-based applications and cloud storage.",
+        "x-StrId": "401007",
+        "x-StrType": "Laptop",
+        "x-SRKey": "Laptop.Get.HPChromebook14"
+    },
+    "HPEnvyX360": "HP Envy x360",
+    "@HPEnvyX360": {
+        "description": "The HP Envy x360 is a versatile 2-in-1 laptop with a flexible hinge, solid performance, and a stunning display.",
+        "x-StrId": "401008",
+        "x-StrType": "Laptop",
+        "x-SRKey": "Laptop.Get.HPEnvyX360"
+    },
+    "HPPavilion15": "HP Pavilion 15",
+    "@HPPavilion15": {
+        "description": "The HP Pavilion 15 is a mainstream laptop that offers a balance of performance, features, and price.",
+        "x-StrId": "401009",
+        "x-StrType": "Laptop",
+        "x-SRKey": "Laptop.Get.HPPavilion15"
+    },
+    "HPEliteBook850": "HP EliteBook 850",
+    "@HPEliteBook850": {
+        "description": "The HP EliteBook 850 is a business laptop with premium build quality, robust security features, and strong performance.",
+        "x-StrId": "401010",
+        "x-StrType": "Laptop",
+        "x-SRKey": "Laptop.Get.HPEliteBook850"
+    },
+    "HPOMEN17": "HP OMEN 17",
+    "@HPOMEN17": {
+        "description": "The HP OMEN 17 is a high-performance gaming laptop with a large display, powerful internals, and advanced cooling solutions.",
+        "x-StrId": "401011",
+        "x-StrType": "Laptop",
+        "x-SRKey": "Laptop.Get.HPOMEN17"
+    },
+    "HPZBookFury17": "HP ZBook Fury 17",
+    "@HPZBookFury17": {
+        "description": "The HP ZBook Fury 17 is a powerful mobile workstation designed for demanding professional applications and heavy multitasking.",
+        "x-StrId": "401012",
+        "x-StrType": "Laptop",
+        "x-SRKey": "Laptop.Get.HPZBookFury17"
+    },
+    "HPSpectreX36014": "HP Spectre x360 14",
+    "@HPSpectreX36014": {
+        "description": "The HP Spectre x360 14 is a premium 2-in-1 laptop with a 3:2 aspect ratio display, strong performance, and elegant design.",
+        "x-StrId": "401013",
+        "x-StrType": "Laptop",
+        "x-SRKey": "Laptop.Get.HPSpectreX36014"
+    },
+    "HPEliteBookX360": "HP EliteBook x360",
+    "@HPEliteBookX360": {
+        "description": "The HP EliteBook x360 is a business convertible laptop with advanced security features, strong performance, and flexible design.",
+        "x-StrId": "401014",
+        "x-StrType": "Laptop",
+        "x-SRKey": "Laptop.Get.HPEliteBookX360"
+    },
+    "HPPavilionGaming15": "HP Pavilion Gaming 15",
+    "@HPPavilionGaming15": {
+        "description": "The HP Pavilion Gaming 15 offers a balance of gaming performance, affordability, and everyday usability.",
+        "x-StrId": "401015",
+        "x-StrType": "Laptop",
+        "x-SRKey": "Laptop.Get.HPPavilionGaming15"
+    },
+    "HPSpectreFolio": "HP Spectre Folio",
+    "@HPSpectreFolio": {
+        "description": "The HP Spectre Folio is a luxury laptop with a leather-clad design, flexible 2-in-1 form factor, and long battery life.",
+        "x-StrId": "401016",
+        "x-StrType": "Laptop",
+        "x-SRKey": "Laptop.Get.HPSpectreFolio"
+    },
+    "HPEnvy17": "HP Envy 17",
+    "@HPEnvy17": {
+        "description": "The HP Envy 17 is a large-screen laptop that offers strong performance, a high-resolution display, and premium features.",
+        "x-StrId": "401017",
+        "x-StrType": "Laptop",
+        "x-SRKey": "Laptop.Get.HPEnvy17"
+    },
+    "HPStream14": "HP Stream 14",
+    "@HPStream14": {
+        "description": "The HP Stream 14 is an affordable, lightweight laptop designed for basic tasks and cloud computing.",
+        "x-StrId": "401018",
+        "x-StrType": "Laptop",
+        "x-SRKey": "Laptop.Get.HPStream14"
+    },
+    "HPEliteBook830": "HP EliteBook 830",
+    "@HPEliteBook830": {
+        "description": "The HP EliteBook 830 is a business laptop with compact design, robust security features, and reliable performance.",
+        "x-StrId": "401019",
+        "x-StrType": "Laptop",
+        "x-SRKey": "Laptop.Get.HPEliteBook830"
+    },
+    "HPSpectreX36015": "HP Spectre x360 15",
+    "@HPSpectreX36015": {
+        "description": "The HP Spectre x360 15 is a powerful 2-in-1 laptop with a large display, high-end performance, and premium design.",
+        "x-StrId": "401020",
+        "x-StrType": "Laptop",
+        "x-SRKey": "Laptop.Get.HPSpectreX36015"
+    }
+}
