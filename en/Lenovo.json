@@ -1,0 +1,142 @@
+{
+    "LenovoThinkPadX1Carbon": "Lenovo ThinkPad X1 Carbon",
+    "@LenovoThinkPadX1Carbon": {
+      "description": "The Lenovo ThinkPad X1 Carbon is a premium ultrabook known for its lightweight design and robust performance.",
+      "x-StrId": "401001",
+      "x-StrType": "Device",
+      "x-SRKey": "Device.Get.LenovoThinkPadX1Carbon"
+    },
+    "LenovoThinkPadX1Yoga": "Lenovo ThinkPad X1 Yoga",
+    "@LenovoThinkPadX1Yoga": {
+      "description": "The Lenovo ThinkPad X1 Yoga is a versatile 2-in-1 laptop with a flexible hinge and high-end specifications.",
+      "x-StrId": "401002",
+      "x-StrType": "Device",
+      "x-SRKey": "Device.Get.LenovoThinkPadX1Yoga"
+    },
+    "LenovoThinkPadP1": "Lenovo ThinkPad P1",
+    "@LenovoThinkPadP1": {
+      "description": "The Lenovo ThinkPad P1 is a powerful workstation designed for professionals who need high performance on the go.",
+      "x-StrId": "401003",
+      "x-StrType": "Device",
+      "x-SRKey": "Device.Get.LenovoThinkPadP1"
+    },
+    "LenovoThinkPadT14": "Lenovo ThinkPad T14",
+    "@LenovoThinkPadT14": {
+      "description": "The Lenovo ThinkPad T14 is a business laptop offering reliability and robust security features.",
+      "x-StrId": "401004",
+      "x-StrType": "Device",
+      "x-SRKey": "Device.Get.LenovoThinkPadT14"
+    },
+    "LenovoThinkPadX1Extreme": "Lenovo ThinkPad X1 Extreme",
+    "@LenovoThinkPadX1Extreme": {
+      "description": "The Lenovo ThinkPad X1 Extreme is a high-performance laptop with advanced graphics and a 4K display option.",
+      "x-StrId": "401005",
+      "x-StrType": "Device",
+      "x-SRKey": "Device.Get.LenovoThinkPadX1Extreme"
+    },
+    "LenovoIdeaPadFlex5": "Lenovo IdeaPad Flex 5",
+    "@LenovoIdeaPadFlex5": {
+      "description": "The Lenovo IdeaPad Flex 5 is a budget-friendly 2-in-1 laptop with good performance and a flexible hinge.",
+      "x-StrId": "401006",
+      "x-StrType": "Device",
+      "x-SRKey": "Device.Get.LenovoIdeaPadFlex5"
+    },
+    "LenovoIdeaPadS540": "Lenovo IdeaPad S540",
+    "@LenovoIdeaPadS540": {
+      "description": "The Lenovo IdeaPad S540 offers a sleek design and solid performance for everyday computing tasks.",
+      "x-StrId": "401007",
+      "x-StrType": "Device",
+      "x-SRKey": "Device.Get.LenovoIdeaPadS540"
+    },
+    "LenovoLegion5": "Lenovo Legion 5",
+    "@LenovoLegion5": {
+      "description": "The Lenovo Legion 5 is a gaming laptop with powerful specs and a high refresh rate display.",
+      "x-StrId": "401008",
+      "x-StrType": "Device",
+      "x-SRKey": "Device.Get.LenovoLegion5"
+    },
+    "LenovoLegion7": "Lenovo Legion 7",
+    "@LenovoLegion7": {
+      "description": "The Lenovo Legion 7 is a top-tier gaming laptop with advanced cooling and high-end graphics.",
+      "x-StrId": "401009",
+      "x-StrType": "Device",
+      "x-SRKey": "Device.Get.LenovoLegion7"
+    },
+    "LenovoYogaC940": "Lenovo Yoga C940",
+    "@LenovoYogaC940": {
+      "description": "The Lenovo Yoga C940 is a premium 2-in-1 laptop with a high-resolution display and strong performance.",
+      "x-StrId": "401010",
+      "x-StrType": "Device",
+      "x-SRKey": "Device.Get.LenovoYogaC940"
+    },
+    "LenovoYogaSlim7": "Lenovo Yoga Slim 7",
+    "@LenovoYogaSlim7": {
+      "description": "The Lenovo Yoga Slim 7 is a lightweight laptop offering excellent battery life and powerful performance.",
+      "x-StrId": "401011",
+      "x-StrType": "Device",
+      "x-SRKey": "Device.Get.LenovoYogaSlim7"
+    },
+    "LenovoThinkBook14s": "Lenovo ThinkBook 14s",
+    "@LenovoThinkBook14s": {
+      "description": "The Lenovo ThinkBook 14s is a business laptop combining performance and style for modern professionals.",
+      "x-StrId": "401012",
+      "x-StrType": "Device",
+      "x-SRKey": "Device.Get.LenovoThinkBook14s"
+    },
+    "LenovoThinkBook15": "Lenovo ThinkBook 15",
+    "@LenovoThinkBook15": {
+      "description": "The Lenovo ThinkBook 15 offers a large screen and robust performance suitable for business use.",
+      "x-StrId": "401013",
+      "x-StrType": "Device",
+      "x-SRKey": "Device.Get.LenovoThinkBook15"
+    },
+    "LenovoIdeaPad3": "Lenovo IdeaPad 3",
+    "@LenovoIdeaPad3": {
+      "description": "The Lenovo IdeaPad 3 is an entry-level laptop with essential features for everyday computing.",
+      "x-StrId": "401014",
+      "x-StrType": "Device",
+      "x-SRKey": "Device.Get.LenovoIdeaPad3"
+    },
+    "LenovoThinkPadE14": "Lenovo ThinkPad E14",
+    "@LenovoThinkPadE14": {
+      "description": "The Lenovo ThinkPad E14 is a cost-effective business laptop with good performance and security features.",
+      "x-StrId": "401015",
+      "x-StrType": "Device",
+      "x-SRKey": "Device.Get.LenovoThinkPadE14"
+    },
+    "LenovoThinkPadL15": "Lenovo ThinkPad L15",
+    "@LenovoThinkPadL15": {
+      "description": "The Lenovo ThinkPad L15 offers reliable performance and essential features for business users.",
+      "x-StrId": "401016",
+      "x-StrType": "Device",
+      "x-SRKey": "Device.Get.LenovoThinkPadL15"
+    },
+    "LenovoYoga730": "Lenovo Yoga 730",
+    "@LenovoYoga730": {
+      "description": "The Lenovo Yoga 730 is a versatile 2-in-1 laptop with a sleek design and strong performance.",
+      "x-StrId": "401017",
+      "x-StrType": "Device",
+      "x-SRKey": "Device.Get.LenovoYoga730"
+    },
+    "LenovoThinkPadX390": "Lenovo ThinkPad X390",
+    "@LenovoThinkPadX390": {
+      "description": "The Lenovo ThinkPad X390 is a compact business laptop with long battery life and robust security features.",
+      "x-StrId": "401018",
+      "x-StrType": "Device",
+      "x-SRKey": "Device.Get.LenovoThinkPadX390"
+    },
+    "LenovoIdeaPadL340": "Lenovo IdeaPad L340",
+    "@LenovoIdeaPadL340": {
+      "description": "The Lenovo IdeaPad L340 is a budget gaming laptop with decent performance and a stylish design.",
+      "x-StrId": "401019",
+      "x-StrType": "Device",
+      "x-SRKey": "Device.Get.LenovoIdeaPadL340"
+    },
+    "LenovoIdeaPadDuet3i": "Lenovo IdeaPad Duet 3i",
+    "@LenovoIdeaPadDuet3i": {
+      "description": "The Lenovo IdeaPad Duet 3i is a 2-in-1 laptop with detachable keyboard and solid performance for light tasks.",
+      "x-StrId": "401020",
+      "x-StrType": "Device",
+      "x-SRKey": "Device.Get.LenovoIdeaPadDuet3i"
+    }
+}
