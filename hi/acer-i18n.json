@@ -1,0 +1,142 @@
+{
+    "AcerAspire5": "Acer Aspire 5",
+    "@AcerAspire5": {
+      "description": "The Acer Aspire 5 is a versatile laptop with strong performance and great value.",
+      "x-StrId": "401001",
+      "x-StrType": "Device",
+      "x-SRKey": "Device.Get.AcerAspire5"
+    },
+    "AcerAspire7": "Acer Aspire 7",
+    "@AcerAspire7": {
+      "description": "The Acer Aspire 7 offers enhanced performance and graphics capabilities for more demanding tasks.",
+      "x-StrId": "401002",
+      "x-StrType": "Device",
+      "x-SRKey": "Device.Get.AcerAspire7"
+    },
+    "AcerSwift3": "Acer Swift 3",
+    "@AcerSwift3": {
+      "description": "The Acer Swift 3 is a thin and lightweight laptop with a focus on portability and battery life.",
+      "x-StrId": "401003",
+      "x-StrType": "Device",
+      "x-SRKey": "Device.Get.AcerSwift3"
+    },
+    "AcerSwift5": "Acer Swift 5",
+    "@AcerSwift5": {
+      "description": "The Acer Swift 5 combines ultra-lightweight design with high performance and long battery life.",
+      "x-StrId": "401004",
+      "x-StrType": "Device",
+      "x-SRKey": "Device.Get.AcerSwift5"
+    },
+    "AcerNitro5": "Acer Nitro 5",
+    "@AcerNitro5": {
+      "description": "The Acer Nitro 5 is a gaming laptop with powerful hardware and a high-refresh-rate display.",
+      "x-StrId": "401005",
+      "x-StrType": "Device",
+      "x-SRKey": "Device.Get.AcerNitro5"
+    },
+    "AcerPredatorHelios300": "Acer Predator Helios 300",
+    "@AcerPredatorHelios300": {
+      "description": "The Acer Predator Helios 300 is a high-performance gaming laptop with advanced cooling and display features.",
+      "x-StrId": "401006",
+      "x-StrType": "Device",
+      "x-SRKey": "Device.Get.AcerPredatorHelios300"
+    },
+    "AcerPredatorTriton500": "Acer Predator Triton 500",
+    "@AcerPredatorTriton500": {
+      "description": "The Acer Predator Triton 500 is a premium gaming laptop with top-tier performance and a slim design.",
+      "x-StrId": "401007",
+      "x-StrType": "Device",
+      "x-SRKey": "Device.Get.AcerPredatorTriton500"
+    },
+    "AcerChromebookSpin713": "Acer Chromebook Spin 713",
+    "@AcerChromebookSpin713": {
+      "description": "The Acer Chromebook Spin 713 is a convertible laptop with Chrome OS and a high-resolution display.",
+      "x-StrId": "401008",
+      "x-StrType": "Device",
+      "x-SRKey": "Device.Get.AcerChromebookSpin713"
+    },
+    "AcerChromebookR11": "Acer Chromebook R11",
+    "@AcerChromebookR11": {
+      "description": "The Acer Chromebook R11 is a compact and affordable convertible laptop with Chrome OS.",
+      "x-StrId": "401009",
+      "x-StrType": "Device",
+      "x-SRKey": "Device.Get.AcerChromebookR11"
+    },
+    "AcerSpin5": "Acer Spin 5",
+    "@AcerSpin5": {
+      "description": "The Acer Spin 5 is a versatile 2-in-1 laptop with a touch screen and flexible hinge design.",
+      "x-StrId": "401010",
+      "x-StrType": "Device",
+      "x-SRKey": "Device.Get.AcerSpin5"
+    },
+    "AcerSpin3": "Acer Spin 3",
+    "@AcerSpin3": {
+      "description": "The Acer Spin 3 offers the flexibility of a convertible laptop with good performance and battery life.",
+      "x-StrId": "401011",
+      "x-StrType": "Device",
+      "x-SRKey": "Device.Get.AcerSpin3"
+    },
+    "AcerEnduroN3": "Acer Enduro N3",
+    "@AcerEnduroN3": {
+      "description": "The Acer Enduro N3 is a rugged laptop designed for durability in harsh environments.",
+      "x-StrId": "401012",
+      "x-StrType": "Device",
+      "x-SRKey": "Device.Get.AcerEnduroN3"
+    },
+    "AcerEnduroN7": "Acer Enduro N7",
+    "@AcerEnduroN7": {
+      "description": "The Acer Enduro N7 is a highly durable laptop built for extreme conditions and demanding workloads.",
+      "x-StrId": "401013",
+      "x-StrType": "Device",
+      "x-SRKey": "Device.Get.AcerEnduroN7"
+    },
+    "AcerTravelMateP2": "Acer TravelMate P2",
+    "@AcerTravelMateP2": {
+      "description": "The Acer TravelMate P2 is a business laptop with robust security features and reliable performance.",
+      "x-StrId": "401014",
+      "x-StrType": "Device",
+      "x-SRKey": "Device.Get.AcerTravelMateP2"
+    },
+    "AcerTravelMateP6": "Acer TravelMate P6",
+    "@AcerTravelMateP6": {
+      "description": "The Acer TravelMate P6 is a high-end business laptop with premium features and lightweight design.",
+      "x-StrId": "401015",
+      "x-StrType": "Device",
+      "x-SRKey": "Device.Get.AcerTravelMateP6"
+    },
+    "AcerConceptD3": "Acer ConceptD 3",
+    "@AcerConceptD3": {
+      "description": "The Acer ConceptD 3 is designed for creators, offering powerful hardware and accurate color display.",
+      "x-StrId": "401016",
+      "x-StrType": "Device",
+      "x-SRKey": "Device.Get.AcerConceptD3"
+    },
+    "AcerConceptD7": "Acer ConceptD 7",
+    "@AcerConceptD7": {
+      "description": "The Acer ConceptD 7 is a high-performance laptop for creative professionals with advanced graphics capabilities.",
+      "x-StrId": "401017",
+      "x-StrType": "Device",
+      "x-SRKey": "Device.Get.AcerConceptD7"
+    },
+    "AcerAspire1": "Acer Aspire 1",
+    "@AcerAspire1": {
+      "description": "The Acer Aspire 1 is an entry-level laptop with essential features and an affordable price point.",
+      "x-StrId": "401018",
+      "x-StrType": "Device",
+      "x-SRKey": "Device.Get.AcerAspire1"
+    },
+    "AcerAspire3": "Acer Aspire 3",
+    "@AcerAspire3": {
+      "description": "The Acer Aspire 3 provides reliable performance and a budget-friendly option for everyday use.",
+      "x-StrId": "401019",
+      "x-StrType": "Device",
+      "x-SRKey": "Device.Get.AcerAspire3"
+    },
+    "AcerPredatorHelios500": "Acer Predator Helios 500",
+    "@AcerPredatorHelios500": {
+      "description": "The Acer Predator Helios 500 is a top-tier gaming laptop with extreme performance and advanced cooling.",
+      "x-StrId": "401020",
+      "x-StrType": "Device",
+      "x-SRKey": "Device.Get.AcerPredatorHelios500"
+    }
+}

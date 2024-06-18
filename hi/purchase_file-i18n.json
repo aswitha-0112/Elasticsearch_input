@@ -1,0 +1,58 @@
+{
+  "PurchaseOrderLabel": "PurchaseOrder",
+  "@PurchaseOrderLabel": {
+    "description": "Label for PurchaseOrder business object",
+    "x-StrId": "226003",
+    "x-StrType": "Action",
+    "x-SRKey": "Action.Get.PurchaseOrderLabel"
+  },
+  "PurchaseOrderPluralLabel": "PurchaseOrders",
+  "@PurchaseOrderPluralLabel": {
+    "description": "Plural Label for PurchaseOrder business object",
+    "x-StrId": "226004",
+    "x-StrType": "Action",
+    "x-SRKey": "Action.Get.PurchaseOrderPluralLabel"
+  },
+  "PurchaseOrderDescription": "PurchaseOrder Description",
+  "@PurchaseOrderDescription": {
+    "description": "Description for PurchaseOrder business object",
+    "x-StrId": "226005",
+    "x-StrType": "Action",
+    "x-SRKey": "Action.Get.PurchaseOrderDescription"
+  },
+  "PurchaseOrderPropertyLabel": "PurchaseOrder Property",
+  "@PurchaseOrderPropertyLabel": {
+    "description": "Label for PurchaseOrder business object property",
+    "x-StrId": "226006",
+    "x-StrType": "Action",
+    "x-SRKey": "Action.Get.PurchaseOrderPropertyLabel"
+  },
+  "PurchaseOrderPropertyTooltip": "PurchaseOrder Property Tooltip",
+  "@PurchaseOrderPropertyTooltip": {
+    "description": "Label for PurchaseOrder business object property tooltip",
+    "x-StrId": "226007",
+    "x-StrType": "Action",
+    "x-SRKey": "Action.Get.PurchaseOrderPropertyTooltip"
+  },
+  "POValidateCustomerOrders": "{open_orders, plural,zero{There are no purchase orders for {customer_name}.}one{There is one purchase order for {customer_name}.}other{There are # purchase orders for  {customer_name}.}}",
+  "@POValidateCustomerOrders": {
+    "description": "Confirm the number of purchase orders created for the customer.",
+    "x-StrId": "226008",
+    "x-StrType": "Validation",
+    "x-SRKey": "Validation.Get.POValidateCustomerOrders",
+    "placeholders": {
+      "open_orders": {
+        "type": "Number",
+        "required": "true"
+      },
+      "customer_name": {
+        "type": "String",
+        "required": "true"
+      }
+    }
+  },
+  "PN.display": "Pending fr",
+  "PN.description": "Waiting to be processed",
+  "PF.display": "Partially Fulfilled",
+  "PF.description": "One or more of the order lines, but not all of them have been fulfilled"
+}

@@ -1,0 +1,142 @@
+{
+  "DellXPS13": "Dell XPS 13",
+  "@DellXPS13": {
+    "description": "The Dell XPS 13 is a premium ultrabook with a compact design and high-performance features.",
+    "x-StrId": "401001",
+    "x-StrType": "Device",
+    "x-SRKey": "Device.Get.DellXPS13"
+  },
+  "DellXPS15": "Dell XPS 15",
+  "@DellXPS15": {
+    "description": "The Dell XPS 15 offers a larger display and more powerful graphics capabilities compared to the XPS 13.",
+    "x-StrId": "401002",
+    "x-StrType": "Device",
+    "x-SRKey": "Device.Get.DellXPS15"
+  },
+  "DellXPS17": "Dell XPS 17",
+  "@DellXPS17": {
+    "description": "The Dell XPS 17 is the largest model in the XPS series, featuring a high-resolution display and advanced performance.",
+    "x-StrId": "401003",
+    "x-StrType": "Device",
+    "x-SRKey": "Device.Get.DellXPS17"
+  },
+  "DellLatitude5410": "Dell Latitude 5410",
+  "@DellLatitude5410": {
+    "description": "The Dell Latitude 5410 is a business laptop with robust security features and reliable performance.",
+    "x-StrId": "401004",
+    "x-StrType": "Device",
+    "x-SRKey": "Device.Get.DellLatitude5410"
+  },
+  "DellLatitude7420": "Dell Latitude 7420",
+  "@DellLatitude7420": {
+    "description": "The Dell Latitude 7420 offers a balance of performance and portability, ideal for professionals on the go.",
+    "x-StrId": "401005",
+    "x-StrType": "Device",
+    "x-SRKey": "Device.Get.DellLatitude7420"
+  },
+  "DellInspiron15": "Dell Inspiron 15",
+  "@DellInspiron15": {
+    "description": "The Dell Inspiron 15 is a versatile laptop with a large display and solid performance for everyday tasks.",
+    "x-StrId": "401006",
+    "x-StrType": "Device",
+    "x-SRKey": "Device.Get.DellInspiron15"
+  },
+  "DellInspiron14": "Dell Inspiron 14",
+  "@DellInspiron14": {
+    "description": "The Dell Inspiron 14 offers a compact design and good performance for students and home use.",
+    "x-StrId": "401007",
+    "x-StrType": "Device",
+    "x-SRKey": "Device.Get.DellInspiron14"
+  },
+  "DellInspiron13": "Dell Inspiron 13",
+  "@DellInspiron13": {
+    "description": "The Dell Inspiron 13 is an ultraportable laptop with a sleek design and efficient performance.",
+    "x-StrId": "401008",
+    "x-StrType": "Device",
+    "x-SRKey": "Device.Get.DellInspiron13"
+  },
+  "DellG315": "Dell G3 15",
+  "@DellG315": {
+    "description": "The Dell G3 15 is a gaming laptop offering a good balance of performance and affordability.",
+    "x-StrId": "401009",
+    "x-StrType": "Device",
+    "x-SRKey": "Device.Get.DellG315"
+  },
+  "DellG515": "Dell G5 15",
+  "@DellG515": {
+    "description": "The Dell G5 15 provides enhanced gaming performance with better graphics and processing power.",
+    "x-StrId": "401010",
+    "x-StrType": "Device",
+    "x-SRKey": "Device.Get.DellG515"
+  },
+  "DellG715": "Dell G7 15",
+  "@DellG715": {
+    "description": "The Dell G7 15 is a high-end gaming laptop with superior performance and advanced cooling features.",
+    "x-StrId": "401011",
+    "x-StrType": "Device",
+    "x-SRKey": "Device.Get.DellG715"
+  },
+  "DellPrecision5540": "Dell Precision 5540",
+  "@DellPrecision5540": {
+    "description": "The Dell Precision 5540 is a workstation laptop designed for professionals requiring high computing power.",
+    "x-StrId": "401012",
+    "x-StrType": "Device",
+    "x-SRKey": "Device.Get.DellPrecision5540"
+  },
+  "DellPrecision5750": "Dell Precision 5750",
+  "@DellPrecision5750": {
+    "description": "The Dell Precision 5750 offers exceptional performance and a large display for demanding creative tasks.",
+    "x-StrId": "401013",
+    "x-StrType": "Device",
+    "x-SRKey": "Device.Get.DellPrecision5750"
+  },
+  "DellPrecision3551": "Dell Precision 3551",
+  "@DellPrecision3551": {
+    "description": "The Dell Precision 3551 is a mid-range workstation providing reliable performance for professional applications.",
+    "x-StrId": "401014",
+    "x-StrType": "Device",
+    "x-SRKey": "Device.Get.DellPrecision3551"
+  },
+  "DellVostro5490": "Dell Vostro 5490",
+  "@DellVostro5490": {
+    "description": "The Dell Vostro 5490 is a business laptop with good performance and essential security features.",
+    "x-StrId": "401015",
+    "x-StrType": "Device",
+    "x-SRKey": "Device.Get.DellVostro5490"
+  },
+  "DellVostro7590": "Dell Vostro 7590",
+  "@DellVostro7590": {
+    "description": "The Dell Vostro 7590 offers a larger display and enhanced performance for business users.",
+    "x-StrId": "401016",
+    "x-StrType": "Device",
+    "x-SRKey": "Device.Get.DellVostro7590"
+  },
+  "DellVostro3500": "Dell Vostro 3500",
+  "@DellVostro3500": {
+    "description": "The Dell Vostro 3500 is an affordable business laptop with essential features for everyday tasks.",
+    "x-StrId": "401017",
+    "x-StrType": "Device",
+    "x-SRKey": "Device.Get.DellVostro3500"
+  },
+  "DellAlienwareM15": "Dell Alienware m15",
+  "@DellAlienwareM15": {
+    "description": "The Dell Alienware m15 is a gaming laptop with powerful performance and advanced cooling technology.",
+    "x-StrId": "401018",
+    "x-StrType": "Device",
+    "x-SRKey": "Device.Get.DellAlienwareM15"
+  },
+  "DellAlienwareM17": "Dell Alienware m17",
+  "@DellAlienwareM17": {
+    "description": "The Dell Alienware m17 offers a larger screen and superior gaming performance with high-end graphics.",
+    "x-StrId": "401019",
+    "x-StrType": "Device",
+    "x-SRKey": "Device.Get.DellAlienwareM17"
+  },
+  "DellChromebook3100": "Dell Chromebook 3100",
+  "@DellChromebook3100": {
+    "description": "The Dell Chromebook 3100 is an education-focused laptop with durability and ease of use for students.",
+    "x-StrId": "401020",
+    "x-StrType": "Device",
+    "x-SRKey": "Device.Get.DellChromebook3100"
+  }
+}
