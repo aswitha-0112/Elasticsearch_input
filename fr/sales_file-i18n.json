@@ -1,0 +1,54 @@
+{
+  "SalesLabel": "Sales",
+  "@SalesLabel": {
+    "description": "business for Sales object Label",
+    "x-StrId": "226014",
+    "x-StrType": "Action",
+    "x-SRKey": "Action.Get.SalesLabel"
+  },
+  "SalesPluralLabel": "Sales",
+  "@SalesPluralLabel": {
+    "description": "label object Plural for Sales business ",
+    "x-StrId": "226015",
+    "x-StrType": "Action",
+    "x-SRKey": "Action.Get.SalesPluralLabel"
+  },
+  "SalesDescription": "Sales Description",
+  "@SalesDescription": {
+    "description": "business Description for Sales  object",
+    "x-StrId": "226016",
+    "x-StrType": "Action",
+    "x-SRKey": "Action.Get.SalesDescription"
+  },
+  "SalesPropertyLabel": "Sales Property",
+  "@SalesPropertyLabel": {
+    "description": "object Label for Sales business property",
+    "x-StrId": "226017",
+    "x-StrType": "Action",
+    "x-SRKey": "Action.Get.SalesPropertyLabel"
+  },
+  "SalesPropertyTooltip": "Sales Tooltip Property",
+  "@SalesPropertyTooltip": {
+    "description": "Label for Sales business object property tooltip",
+    "x-StrId": "226018",
+    "x-StrType": "Action",
+    "x-SRKey": "Action.Get.SalesPropertyTooltip"
+  },
+  "SalesValidateCustomerOrders": "{open_orders, plural,zero{There are no Saless for {customer_name}.}one{There is one Sales for {customer_name}.}other{There are # Saless for {customer_name}.}}",
+  "@SalesValidateCustomerOrders": {
+    "description": "Confirm the number of Saless created for the customer.",
+    "x-StrId": "226019",
+    "x-StrType": "Validation",
+    "x-SRKey": "Validation.Get.SalesValidateCustomerOrders",
+    "placeholders": {
+      "open_orders": {
+        "type": "Number",
+        "required": "true"
+      },
+      "customer_name": {
+        "type": "String",
+        "required": "true"
+      }
+    }
+  }
+}
