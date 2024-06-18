@@ -1,0 +1,54 @@
+{
+  "InvoiceLabel": "Invoice",
+  "@InvoiceLabel": {
+    "description": "Label for Invoice business object",
+    "x-StrId": "226009",
+    "x-StrType": "Action",
+    "x-SRKey": "Action.Get.InvoiceLabel"
+  },
+  "InvoicePluralLabel": "Invoices",
+  "@InvoicePluralLabel": {
+    "description": "Plural Label for Invoice business object",
+    "x-StrId": "226010",
+    "x-StrType": "Action",
+    "x-SRKey": "Action.Get.InvoicePluralLabel"
+  },
+  "InvoiceDescription": "Invoice Description",
+  "@InvoiceDescription": {
+    "description": "Description for Invoice business object",
+    "x-StrId": "226011",
+    "x-StrType": "Action",
+    "x-SRKey": "Action.Get.InvoiceDescription"
+  },
+  "InvoicePropertyLabel": "Invoice Property",
+  "@InvoicePropertyLabel": {
+    "description": "Label for Invoice business object property",
+    "x-StrId": "226012",
+    "x-StrType": "Action",
+    "x-SRKey": "Action.Get.InvoicePropertyLabel"
+  },
+  "InvoicePropertyTooltip": "Invoice Property Tooltip",
+  "@InvoicePropertyTooltip": {
+    "description": "Label for Invoice business object property tooltip",
+    "x-StrId": "226013",
+    "x-StrType": "Action",
+    "x-SRKey": "Action.Get.InvoicePropertyTooltip"
+  },
+  "InvoiceValidateCustomerOrders": "{open_orders, plural,zero{There are no invoices for {customer_name}.}one{There is one invoice for {customer_name}.}other{There are # invoices for {customer_name}.}}",
+  "@InvoiceValidateCustomerOrders": {
+    "description": "Confirm the number of invoices created for the customer.",
+    "x-StrId": "226014",
+    "x-StrType": "Validation",
+    "x-SRKey": "Validation.Get.InvoiceValidateCustomerOrders",
+    "placeholders": {
+      "open_orders": {
+        "type": "Number",
+        "required": "true"
+      },
+      "customer_name": {
+        "type": "String",
+        "required": "true"
+      }
+    }
+  }
+}
